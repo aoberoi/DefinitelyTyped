@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "wonder-commonlib": "^0.2.14",
+    "wonder-frp": "^0.1.25"
+  }
+}
